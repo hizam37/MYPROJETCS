@@ -1,8 +1,0 @@
-C:\Users\ISLAM\source\repos\PositionalSystemNumber\PositionalSystemNumber\bin\Debug\PositionalSystemNumber.exe.config
-C:\Users\ISLAM\source\repos\PositionalSystemNumber\PositionalSystemNumber\bin\Debug\PositionalSystemNumber.exe
-C:\Users\ISLAM\source\repos\PositionalSystemNumber\PositionalSystemNumber\bin\Debug\PositionalSystemNumber.pdb
-C:\Users\ISLAM\source\repos\PositionalSystemNumber\PositionalSystemNumber\obj\Debug\PositionalSystemNumber.csproj.AssemblyReference.cache
-C:\Users\ISLAM\source\repos\PositionalSystemNumber\PositionalSystemNumber\obj\Debug\PositionalSystemNumber.csproj.SuggestedBindingRedirects.cache
-C:\Users\ISLAM\source\repos\PositionalSystemNumber\PositionalSystemNumber\obj\Debug\PositionalSystemNumber.csproj.CoreCompileInputs.cache
-C:\Users\ISLAM\source\repos\PositionalSystemNumber\PositionalSystemNumber\obj\Debug\PositionalSystemNumber.exe
-C:\Users\ISLAM\source\repos\PositionalSystemNumber\PositionalSystemNumber\obj\Debug\PositionalSystemNumber.pdb
