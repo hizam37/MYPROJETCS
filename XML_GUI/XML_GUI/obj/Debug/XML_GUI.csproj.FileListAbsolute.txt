@@ -1,0 +1,11 @@
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\bin\Debug\XML_GUI.exe.config
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\bin\Debug\XML_GUI.exe
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\bin\Debug\XML_GUI.pdb
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\obj\Debug\XML_GUI.csproj.AssemblyReference.cache
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\obj\Debug\XML_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\obj\Debug\XML_GUI.Form1.resources
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\obj\Debug\XML_GUI.Properties.Resources.resources
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\obj\Debug\XML_GUI.csproj.GenerateResource.cache
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\obj\Debug\XML_GUI.csproj.CoreCompileInputs.cache
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\obj\Debug\XML_GUI.exe
+C:\Users\ISLAM\source\repos\PSr\XML_GUI\XML_GUI\obj\Debug\XML_GUI.pdb
