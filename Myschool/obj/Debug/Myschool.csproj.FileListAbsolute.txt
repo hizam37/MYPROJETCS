@@ -1,0 +1,11 @@
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\bin\Debug\Myschool.exe.config
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\bin\Debug\Myschool.exe
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\bin\Debug\Myschool.pdb
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\obj\Debug\Myschool.csproj.AssemblyReference.cache
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\obj\Debug\Myschool.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\obj\Debug\Myschool.Form1.resources
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\obj\Debug\Myschool.Properties.Resources.resources
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\obj\Debug\Myschool.csproj.GenerateResource.cache
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\obj\Debug\Myschool.csproj.CoreCompileInputs.cache
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\obj\Debug\Myschool.exe
+C:\Users\ISLAM\source\repos\PSr\Myschool\Myschool\obj\Debug\Myschool.pdb
