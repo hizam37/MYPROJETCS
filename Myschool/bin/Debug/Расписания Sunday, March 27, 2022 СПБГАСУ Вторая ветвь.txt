@@ -1,2 +1,0 @@
-duration : 1 hour
-Teacher : Maksim. Subject : Architecture
